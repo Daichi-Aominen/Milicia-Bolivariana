@@ -4,9 +4,9 @@
 
 <body>
 
-  <?php
-    echo "Hola mundo PHP";
-  ?>
+   <?php
+echo "Hola mundo PHP"; 
+    ?>
 <h1> Hola mundo HTML</h1>
 </body>
 
