@@ -7,7 +7,7 @@
    <?php
 echo "Hola mundo PHP"; 
     ?>
-<h1> Hola mundo HTML</h1>
+<h1> Hola mundo HTML 2</h1>
 </body>
 
 
