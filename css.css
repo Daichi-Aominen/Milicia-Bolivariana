@@ -69,6 +69,7 @@ a:hover, a:active, a:focus { /* este grupo de selectores proporcionará a un usu
 	width: 180px;
 	background-color: #EADCAE;
 	padding-bottom: 15px;
+	margin-top: 10px;
 }
 .content {
 
